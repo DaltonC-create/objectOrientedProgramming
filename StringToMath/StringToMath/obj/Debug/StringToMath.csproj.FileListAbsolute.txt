@@ -1,0 +1,14 @@
+C:\Users\Dalto\source\repos\StringToMath\StringToMath\bin\Debug\StringToMath.exe.config
+C:\Users\Dalto\source\repos\StringToMath\StringToMath\bin\Debug\StringToMath.exe
+C:\Users\Dalto\source\repos\StringToMath\StringToMath\bin\Debug\StringToMath.pdb
+C:\Users\Dalto\source\repos\StringToMath\StringToMath\obj\Debug\StringToMath.csproj.AssemblyReference.cache
+C:\Users\Dalto\source\repos\StringToMath\StringToMath\obj\Debug\StringToMath.csproj.CoreCompileInputs.cache
+C:\Users\Dalto\source\repos\StringToMath\StringToMath\obj\Debug\StringToMath.exe
+C:\Users\Dalto\source\repos\StringToMath\StringToMath\obj\Debug\StringToMath.pdb
+C:\Users\Dalto\OneDrive\School Classes\Fall 2021\COSC 3317 OOP\C#\StringToMath\StringToMath\bin\Debug\StringToMath.exe.config
+C:\Users\Dalto\OneDrive\School Classes\Fall 2021\COSC 3317 OOP\C#\StringToMath\StringToMath\bin\Debug\StringToMath.exe
+C:\Users\Dalto\OneDrive\School Classes\Fall 2021\COSC 3317 OOP\C#\StringToMath\StringToMath\bin\Debug\StringToMath.pdb
+C:\Users\Dalto\OneDrive\School Classes\Fall 2021\COSC 3317 OOP\C#\StringToMath\StringToMath\obj\Debug\StringToMath.csproj.AssemblyReference.cache
+C:\Users\Dalto\OneDrive\School Classes\Fall 2021\COSC 3317 OOP\C#\StringToMath\StringToMath\obj\Debug\StringToMath.csproj.CoreCompileInputs.cache
+C:\Users\Dalto\OneDrive\School Classes\Fall 2021\COSC 3317 OOP\C#\StringToMath\StringToMath\obj\Debug\StringToMath.exe
+C:\Users\Dalto\OneDrive\School Classes\Fall 2021\COSC 3317 OOP\C#\StringToMath\StringToMath\obj\Debug\StringToMath.pdb
